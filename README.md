@@ -1,1 +1,1 @@
-# Coffeshop
+# Coffeshop - Developers
