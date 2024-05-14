@@ -38,5 +38,12 @@ pipeline{
                 '''
             }
         }
+	stage('CPU-Details'){
+            steps{
+                sh '''
+                    lscpu
+                '''
+            }
+        }
     }
 }
